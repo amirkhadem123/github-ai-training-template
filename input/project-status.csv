@@ -1,0 +1,6 @@
+project,owner,status,priority,milestone,due_date,notes
+Website Refresh,Maya,On Track,Medium,Design sign-off,2026-10-05,Final review with stakeholders
+Customer Portal,Jordan,At Risk,High,Beta release,2026-10-12,Authentication testing behind schedule
+Data Migration,Priya,On Track,Medium,Pilot migration,2026-10-18,Pilot dataset prepared
+Training Rollout,Sam,At Risk,High,Manager enablement,2026-10-02,Several managers have not confirmed attendance
+Reporting Dashboard,Alex,Blocked,High,Data validation,2026-10-09,Source data fields are inconsistent
